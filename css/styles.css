@@ -16,3 +16,13 @@ p{
 ul{
   line-height: 40px;
 }
+
+strong{
+  font-weight: normal;
+  font-style: italic;
+}
+
+em{
+  font-style:normal;
+  font-weight: bold;
+}

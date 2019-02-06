@@ -1,0 +1,19 @@
+.title{
+  text-decoration: underline;
+  text-align: center;
+}
+
+h3{
+  color: red;
+  text-decoration: underline;
+}
+
+li{
+  color: brown;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.bruce-traits{
+  text-align: center;
+}
